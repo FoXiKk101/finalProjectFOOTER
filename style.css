@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section {
+    background-color: #4f181d;
+    height: 391px;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    padding-top: 44px;
+}
+
+.address {
+    font-size: 14px;
+    margin-top: 27px;
+}
+
+.iconPointer {
+    margin-right: 7px;
+}
+
+.addressText {
+    color: #ffffff;
+}
+
+/* .block {
+    display: block;
+} */
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 18px;
+}
+
+.phoneNumber {
+    color: #ffffff;
+    /* margin-bottom: 11px; */
+}
+
+.email {
+    color: #ffffff;
+    margin-top: 11px;
+}
+
+.socialNetworks {
+    margin-top: 27px;
+}
+
+.facebook {
+    border: 1px solid #f3820a;
+    border-radius: 4px;
+    width: 35px;
+    height: 30px;
+    position: relative;
+}
+
+.facebookIcon {
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+
+.instagram {
+    border: 1px solid #f3820a;
+    border-radius: 4px;
+    width: 35px;
+    height: 30px;
+    position: relative;
+    margin-left: 15px;
+}
+
+.instagramIcon {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 240px;
+    height: 56px;
+    background-color: #f3820a;
+    border-radius: 4px;
+    /* margin-bottom: 74px; */
+}
+
+.buttonText {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.section2 {
+    background-color: #421418;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* .svg {
+    fill: currentColor;
+    color: #ffffff;
+} */
+
